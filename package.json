@@ -1,0 +1,19 @@
+{
+  "name": "parallax-depth-cards",
+  "version": "1.0.0",
+  "description": "parallax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "parallax-3D-cards"
+  },
+  "keywords": [
+    "Vue",
+    "parallax"
+  ],
+  "author": "Igor Yar",
+  "license": "ISC"
+}
